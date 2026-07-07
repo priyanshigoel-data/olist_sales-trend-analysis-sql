@@ -98,10 +98,6 @@ sales-trend-analysis-sql/
 │
 ├── README.md
 ├── OLIST_SQL.sql
-├── data/
-   ├── olist_orders_dataset.csv
-   ├── olist_order_items_dataset.csv
-   └── olist_customers_dataset.csv
 ```
 
 ## Sample Output
